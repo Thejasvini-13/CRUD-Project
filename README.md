@@ -41,4 +41,4 @@ The backend (JSON Server) will be running on http://localhost:5001.
 
 📝 Notes
 This project is intended for learning purposes and uses a mock backend (json-server). The data will be lost when the server restarts.
-📄 License
+
