@@ -1,0 +1,39 @@
+{
+  "employee": [
+    {
+      "id": "EMP001",
+      "name": "Arunachalam",
+      "email": "arun@gmail.com",
+      "phone": "9145567788",
+      "active": true
+    },
+    {
+      "id": "EMP002",
+      "name": "Ramakrishnan",
+      "email": "rama@gmail.com",
+      "phone": "9678899654",
+      "active": true
+    },
+    {
+      "id": "EMP003",
+      "name": "lalli",
+      "email": "lalli@gmail.com",
+      "phone": "9234567899",
+      "active": true
+    },
+    {
+      "id": "EMP004",
+      "name": "Ramya",
+      "email": "ramya@gmail.com",
+      "phone": "9123456789",
+      "active": true
+    },
+    {
+      "id": "EMP006",
+      "name": "kavya",
+      "email": "kavya123@gmail.com",
+      "phone": "9726554456",
+      "active": true
+    }
+  ]
+}
